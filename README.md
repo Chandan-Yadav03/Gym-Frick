@@ -27,7 +27,7 @@ Check out a live demo of GymFrick [here](https://gymfrick.vercel.app) <!-- Add t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/bikashsahh/Gym-Frick.git
+   git clone https://github.com/Chandan-Yadav03/Gym-Frick.git
 
 2. Navigate to the project directory:
     cd client
@@ -47,6 +47,3 @@ Check out a live demo of GymFrick [here](https://gymfrick.vercel.app) <!-- Add t
 4. Commit your changes (git commit -m 'Add some feature').
 5. Push to the branch (git push origin feature/your-feature-name).
 6. Open a pull request.
-
-## Contact
-Check [here](https://bikashsah.vercel.app) <!-- Add the link to your live demo -->
